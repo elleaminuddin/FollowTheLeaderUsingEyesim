@@ -1,0 +1,7 @@
+# # Environment
+world Field.wld
+
+# robots
+Labbot 3500 3000 90 leader.py
+S4 3500 2500 90 follower.py
+S4 3500 1700 90 follower.py
